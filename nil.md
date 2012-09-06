@@ -822,3 +822,5 @@ Workarounds:
 [`http://franklinchen.com/`](http://franklinchen.com/)
 
 [`franklinchen@franklinchen.com`](mailto:franklinchen@franklinchen.com)
+
+This slideshow: [`http://franklinchen.com/talk-on-nil`](http://franklinchen.com/talk-on-nil)
